@@ -1,0 +1,40 @@
+h1{
+    color:goldenrod;
+   
+    text-transform: uppercase;
+}
+
+body{
+    background-image: url("blackjack.jpg");
+    background-size: cover;
+    text-align: center;
+    color:white;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#message-el{
+  font-style: italic;
+}
+
+#style-btn{
+    color:green;
+    background-color: goldenrod;
+    padding: 14px 40px;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 8px;
+    border:none;
+}
+#newstyle{
+    color:green;
+    background-color: goldenrod;
+    padding: 14px 60px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 8px;
+    border: none;
+
+}
